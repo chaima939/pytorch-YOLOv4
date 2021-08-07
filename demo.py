@@ -10,9 +10,9 @@
     @Detail    :
 '''
 
-# import sys
-# import time
-# from PIL import Image, ImageDraw
+import sys
+import time
+from PIL import Image, ImageDraw
 # from models.tiny_yolo import TinyYoloNet
 from tool.utils import *
 from tool.torch_utils import *
